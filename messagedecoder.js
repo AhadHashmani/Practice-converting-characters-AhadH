@@ -1,4 +1,4 @@
-// Task 1: Decode the Reversed Messages
+//  1: Decode 
 
 let message1 = " !yako eb ll'uoy dna ,gniog peeK !sgnittes fo yteirav a ni slliks gnidoc esu osla nac uoY !ti teg ll'uoy ,tsisrep uoy fi tub ,tsrif ta drah mees yam gnidoC";
 let message2 = "!ecitcarp htiw retteb teg ll'uoy ,emit ekaT .tsrif ta drah leef lliw gnitirw edoc tuB";
@@ -16,7 +16,7 @@ console.log(decoded3);
 console.log(decoded4);
 
 
-// Task 2: Write and Reverse Your Own Messages
+//  2: Write and Reverse  Messages
 
 let myMessage1 = "Every expert was once a beginner who refused to give up.";
 let myMessage2 = "Small progress every day adds up to big results.";
